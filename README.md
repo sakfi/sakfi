@@ -90,10 +90,6 @@
 
 ### 📈 Contribution History
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/fe428e/sakfi" alt="GitHub Contribution Chart" />
-</div>
-
 <br>
 
 <div align="center">
