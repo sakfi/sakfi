@@ -71,14 +71,39 @@
 
 ---
 
-### 🏆 Trophies & Contributions
+### 🏆 Trophies & Top Repos
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sakfi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakfi&bg_color=141321&color=fe428e&line=f38ba8&point=f38ba8&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/sakfi/OP_KSUN_FS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakfi&repo=OP_KSUN_FS&theme=radical" alt="OP_KSUN_FS Repo" width="48%" />
+  </a>
+  <a href="https://github.com/sakfi/SakFi-Vercel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakfi&repo=SakFi-Vercel&theme=radical" alt="SakFi-Vercel Repo" width="48%" />
+  </a>
+</div>
+
+---
+
+### 📈 Contribution History
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/fe428e/sakfi" alt="GitHub Contribution Chart" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakfi/sakfi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakfi/sakfi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sakfi/sakfi/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+  <br/>
+  <i>☝️ The snake eats my contributions to grow! (Setup via GitHub Actions)</i>
 </div>
 
 ---
