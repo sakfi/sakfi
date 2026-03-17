@@ -99,7 +99,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sakfi/sakfi/output/github-contribution-grid-snake-dark.svg">
   </picture>
   <br/>
-  <i>☝️ The snake eats my contributions to grow! (Setup via GitHub Actions)</i>
+  <i>☝️ This snake is eating my contributions to grow!</i>
 </div>
 
 ---
