@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>👨‍💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🎮 Gamer</h3>
+  <h3>👨‍💻 Vibe Coder | ☁️ Cloud Enthusiast | 🎮 Gamer</h3>
   <p><i>Bug whisperer by day, debugger by night. Deploying dreams... and sometimes nightmares.</i></p>
 </div>
 
