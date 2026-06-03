@@ -20,10 +20,10 @@
 
 ### 💫 About Me
 
-- 🔭 **Currently working on:** Converting an unhealthy amount of caffeine into somewhat functional code.
-- 🌱 **Always learning:** New, creative, and completely unexpected ways to accidentally break production.
-- 💬 **Ask me about:** Why I spent my entire weekend automating a task that takes 5 minutes to do manually.
-- ⚡ **Fun fact:** I leave "TODO" comments in my codebase with the delusional confidence that I will actually come back to them.
+- 🔭 **$\color{#00F0FF}{\textsf{Currently working on:}}$** Converting an unhealthy amount of caffeine into somewhat functional code.
+- 🌱 **$\color{#00F0FF}{\textsf{Always learning:}}$** New, creative, and completely unexpected ways to accidentally break production.
+- 💬 **$\color{#00F0FF}{\textsf{Ask me about:}}$** Why I spent my entire weekend automating a task that takes 5 minutes to do manually.
+- ⚡ **$\color{#00F0FF}{\textsf{Fun fact:}}$** I leave "TODO" comments in my codebase with the delusional confidence that I will actually come back to them.
 
 
 <div align="center">
