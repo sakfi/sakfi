@@ -3,26 +3,32 @@
 </div>
 
 <div align="center">
-  <h3>👨‍💻 Vibe Coder | ☁️ Cloud Enthusiast | 🎮 Gamer</h3>
-  <p><i>Bug whisperer by day, debugger by night. Deploying dreams... and sometimes nightmares.</i></p>
+  <img src="./profile/coding-animation.gif" width="300" alt="Coding GIF" />
 </div>
 
----
+<div align="center">
+  <img src="./profile/cat_on_line.svg" width="100%" alt="Cat on Line" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=%F0%9F%91%A8%F0%9F%92%BB+Vibe+Coder+%7C+%E2%98%81%EF%B8%8F+Cloud+Enthusiast+%7C+%F0%9F%8E%AE+Gamer;Bug+whisperer+by+day%2C+debugger+by+night.;Deploying+dreams...+and+sometimes+nightmares." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
+</div>
 
 ### 💫 About Me
 
-- 🔭 **Currently working on:** Next.js and Node.js projects.
-- 🌱 **Always learning:** Deepening my knowledge in Python and Google Cloud.
-- 💬 **Ask me about:** JavaScript, Python, and self-hosted server setups.
-- ⚡ **Fun fact:** When I'm not coding or managing deployments, I'm likely lost in a game or tinkering with my Jellyfin server!
+- 🔭 **Currently working on:** Converting an unhealthy amount of caffeine into somewhat functional code.
+- 🌱 **Always learning:** New, creative, and completely unexpected ways to accidentally break production.
+- 💬 **Ask me about:** Why I spent my entire weekend automating a task that takes 5 minutes to do manually.
+- ⚡ **Fun fact:** I leave "TODO" comments in my codebase with the delusional confidence that I will actually come back to them.
 
-### 🌐 Let's Connect
 
-<p align="left">
-  <a href="mailto:ananno.sakib@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
+<div align="center">
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
+</div>
 
 ### 💻 Tech Stack
 
@@ -53,7 +59,9 @@
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 
----
+<div align="center">
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
+</div>
 
 ### 📊 GitHub Stats
 
@@ -66,7 +74,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
----
+<div align="center">
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
+</div>
 
 ### 🏆 Trophies & Top Repos
 
@@ -85,7 +95,9 @@
   </a>
 </div>
 
----
+<div align="center">
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
+</div>
 
 ### 📈 Contribution History
 
@@ -101,11 +113,39 @@
   <i>☝️ This snake is eating my contributions to grow!</i>
 </div>
 
----
+<div align="center">
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
+</div>
 
 ###  ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
+</div>
+
+### 📫 Get In Touch
+
+<div align="center">
+  <a href="mailto:ananno.sakib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-SakFi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sakfi">
+    <img src="https://img.shields.io/badge/GitHub-SakFi-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/sakfi">
+    <img src="https://img.shields.io/badge/Telegram-SakFi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>💬 Let's Connect! Feel free to reach out if you want to collaborate on projects, discuss technology, or just say hello!</i>
 </div>
 
 <br>
