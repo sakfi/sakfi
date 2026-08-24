@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=%F0%9F%91%A8%F0%9F%92%BB+Vibe+Coder+%7C+%E2%98%81%EF%B8%8F+Cloud+Enthusiast+%7C+%F0%9F%8E%AE+Gamer;Bug+whisperer+by+day%2C+debugger+by+night.;Deploying+dreams...+and+sometimes+nightmares." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=%F0%9F%91%A8%F0%9F%92%BB+Vibe+Coder+%7C+%E2%98%81%EF%B8%8F+Cloud+Enthusiast+%7C+%F0%9F%8E%AE+Gamer;Bug+whisperer+by+day%2C+debugger+by+night.;Deploying+dreams...+and+sometimes+nightmares." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -66,12 +66,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sakfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Sakfi's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakfi&theme=radical&hide_border=false" alt="Sakfi's Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sakfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Sakfi's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sakfi&theme=radical&hide_border=false" alt="Sakfi's Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -80,18 +80,17 @@
 
 ### 🏆 Trophies & Top Repos
 
-<!-- Trophies section temporarily commented out because the public vercel instance is paused.
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakfi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy-gules.vercel.app/?username=sakfi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 <br>
--->
+
 <div align="center">
   <a href="https://github.com/sakfi/OP_KSUN_FS">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sakfi&repo=OP_KSUN_FS&theme=radical" alt="OP_KSUN_FS Repo" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakfi&repo=OP_KSUN_FS&theme=radical" alt="OP_KSUN_FS Repo" width="48%" />
   </a>
   <a href="https://github.com/sakfi/SakFi-Vercel">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sakfi&repo=SakFi-Vercel&theme=radical" alt="SakFi-Vercel Repo" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakfi&repo=SakFi-Vercel&theme=radical" alt="SakFi-Vercel Repo" width="48%" />
   </a>
 </div>
 

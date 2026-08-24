@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+There%21+Welcome+To+My+Profile%21+%F0%9F%91%8B;Gamer%21+Tech+Lover%21+%F0%9F%92%BB;Always+Learning+%26+Building+Cool+Stuff%21+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+There%21+Welcome+To+My+Profile%21+%F0%9F%91%8B;Gamer%21+Tech+Lover%21+%F0%9F%92%BB;Always+Learning+%26+Building+Cool+Stuff%21+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -86,7 +86,7 @@ I love to code but I'm not a coder, so I use AI to code for me and stuff. I enjo
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+My+Profile!+%F0%9F%91%8B;Happy+Coding!+%F0%9F%9A%80;Keep+Learning!+Keep+Building!+%F0%9F%94%A5" alt="Closing Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Meslo+Nerd+Font&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+My+Profile!+%F0%9F%91%8B;Happy+Coding!+%F0%9F%9A%80;Keep+Learning!+Keep+Building!+%F0%9F%94%A5" alt="Closing Message" />
 </div>
 
 <div align="center">
