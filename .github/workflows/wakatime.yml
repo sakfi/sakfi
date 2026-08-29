@@ -1,0 +1,26 @@
+name: Work Stats Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs automatically every 12 hours
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: false
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: true

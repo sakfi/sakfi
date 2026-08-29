@@ -66,15 +66,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=sakfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Sakfi's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sakfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Sakfi's GitHub stats" width="48%" />
 
   <br>
   
-  <img src="https://streak-stats.demolab.com/?user=sakfi&theme=radical&hide_border=false" alt="Sakfi's Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakfi&theme=dark&hide_border=false&border_radius=4.5&locale=en&timezone=&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" alt="Sakfi's Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -90,12 +90,21 @@
 
 <div align="center">
   <a href="https://github.com/sakfi/OP_KSUN_FS">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakfi&repo=OP_KSUN_FS&theme=radical" alt="OP_KSUN_FS Repo" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakfi&repo=OP_KSUN_FS&theme=radical&cache_seconds=1800" alt="OP_KSUN_FS Repo" width="48%" />
   </a>
   <a href="https://github.com/sakfi/SakFi-Vercel">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakfi&repo=SakFi-Vercel&theme=radical" alt="SakFi-Vercel Repo" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakfi&repo=SakFi-Vercel&theme=radical&cache_seconds=1800" alt="SakFi-Vercel Repo" width="48%" />
   </a>
 </div>
+
+<div align="center">
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
+</div>
+
+### ⏳ Hours Coded (Last 7 Days)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
