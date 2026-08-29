@@ -104,6 +104,13 @@
 ### ⏳ Hours Coded (Last 7 Days)
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
