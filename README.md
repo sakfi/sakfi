@@ -106,13 +106,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 33 mins
+Total Time: 1 hr 5 mins
 
-Markdown     54 mins               ██████████████▓░░░░░░░░░░   58.35 %
-Python       16 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-HTML         13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Git Config   8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Markdown   36 mins               ██████████████░░░░░░░░░░░   55.77 %
+Python     16 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
+HTML       12 mins               █████░░░░░░░░░░░░░░░░░░░░   19.54 %
 ```
 
 <!--END_SECTION:waka-->
