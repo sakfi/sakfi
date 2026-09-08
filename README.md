@@ -106,13 +106,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 6 mins
+Total Time: 5 hrs 16 mins
 
-Other        2 hrs 4 mins          ████████▒░░░░░░░░░░░░░░░░   33.65 %
-Smali        1 hr 33 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
-Groovy       46 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Python       31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-Dart         26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Other        2 hrs 4 mins          ███████░░░░░░░░░░░░░░░░░░   28.32 %
+Smali        1 hr 33 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
+JavaScript   1 hr 2 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Groovy       46 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Python       31 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
 ```
 
 <!--END_SECTION:waka-->
