@@ -106,11 +106,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 mins
+Total Time: 18 mins
 
-HTML        11 mins               █████████████████▓░░░░░░░   70.74 %
-Batchfile   3 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-Python      1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+HTML        11 mins               ██████████████▓░░░░░░░░░░   59.01 %
+Batchfile   3 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
+JSON        3 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+Python      1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
