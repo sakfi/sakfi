@@ -106,13 +106,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 19 mins
+Total Time: 3 hrs 46 mins
 
-Python        3 hrs 32 mins         ████████████████████▒░░░░   81.64 %
-C#            13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Markdown      13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Image (png)   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Batchfile     5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Python        3 hrs 5 mins          ████████████████████▒░░░░   81.52 %
+C#            13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Markdown      13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Image (png)   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Bash          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
