@@ -106,13 +106,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr
+Total Time: 58 mins
 
-Python        39 mins               ████████████████▒░░░░░░░░   65.05 %
-Markdown      11 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-mIRC Script   4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-JSON          2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-JavaScript    1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Python        30 mins               █████████████░░░░░░░░░░░░   52.35 %
+mIRC Script   12 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+Markdown      11 mins               █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+JSON          2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+JavaScript    1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
